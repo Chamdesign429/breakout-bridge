@@ -1,0 +1,14 @@
+{
+  "name": "breakout-bridge",
+  "version": "1.0.0",
+  "description": "Chamindra Breakout Strategy — TradingView to Tradovate bridge",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
+  }
+}
